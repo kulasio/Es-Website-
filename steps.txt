@@ -1,0 +1,2 @@
+steps
+extract folder >> open vs code >> open Project ES folder >> right click open liver server
